@@ -1,0 +1,1 @@
+A user-friendly, fully responsive forum app, IITJ Forum, catering to seamless online discussions among IITJ students, featuring end-to-end encrypted login and signup pages, alongside enhanced functionality like infinite scrolling, diverse communities, profile page, likes/dislikes/comments and many more features.
